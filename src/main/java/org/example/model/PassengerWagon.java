@@ -1,4 +1,3 @@
 package org.example.model;
 
-public class PassengerWagon {
-}
+public abstract class PassengerWagon extends Wagon {}

@@ -1,4 +1,8 @@
 package org.example.model;
 
-public class Locomotive {
+public class Locomotive extends Wagon {
+    @Override
+    public String getType() {
+        return "Locomotive";
+    }
 }

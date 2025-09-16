@@ -1,4 +1,5 @@
 package org.example.model;
 
-public class Wagon {
+public abstract class Wagon {
+    public abstract String getType();
 }
