@@ -3,8 +3,6 @@ package org.example;
 
 import org.example.model.*;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
         final int RUNS = 100_000000; // number of times to test operations
